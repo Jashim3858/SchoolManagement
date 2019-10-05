@@ -1,0 +1,130 @@
+﻿@model PaginatedList<SchoolManagement.Models.StudentInformation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div style="background-color:darkgrey">
+    <p>
+        @Html.Partial("~/Views/Shared/_StudentPartial.cshtml");
+    </p>
+    <h1>Index</h1>
+    <form asp-action="Index" method="get">
+        <div class="form-actions no-color">
+            <p>
+                Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                <input type="submit" value="Search" class="btn btn-default" />
+            </p>
+        </div>
+    </form>
+    <p>
+        <a asp-action="Index">Back to Full List</a>
+    </p>
+</div>
+
+<div style="text-align:end">
+    <button>
+        <a asp-action="Create">Add New Student</a>
+    </button>
+</div>
+
+
+
+<table class="table table-bordered table-active table-hover">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" asp-routecurrentFilter="@ViewData["CurrentFilter"]">Student Name</a>
+            </th>
+            <th>
+                <label>Fathers Name</label>
+            </th>
+            <th>
+                <label>Mothers Name</label>
+            </th>
+            <th>
+                <label>Date of birth</label>
+            </th>
+            <th>
+                <label>Religion</label>
+            </th>
+            <th>
+                <label>Gurdians Phone No.</label>
+            </th>
+            <th>
+                <label>Student Address</label>
+            </th>
+            <th>
+                Image
+            </th>
+            <th>
+                <label>Class Name</label>
+            </th>
+            <th>Action Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FathersName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MothersName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DOB)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Religion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GurdiansCellPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StudentAddress)
+            </td>
+            <td>
+                <img style="height:50px;width:50px;" class="img-thumbnail" src="@item.ImagePath" asp-append-version="true" alt="@item.ImagePath" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Class.ClassID)
+            </td>
+            <td>
+                <button>
+                    <a asp-action="Edit" asp-route-id="@item.StudentID">Edit</a>
+                </button>
+                <button>
+                    <a asp-action="Details" asp-route-id="@item.StudentID">Details</a>
+                </button>
+                <button>
+                    <a asp-action="Delete" asp-route-id="@item.StudentID">Delete</a>
+                </button>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+    }
+
+<a asp-action="Index"
+ asp-route-sortOrder="@ViewData["CurrentSort"]"
+ asp-route-pageNumber="@(Model.PageIndex - 1)"
+ asp-route-currentFilter="@ViewData["CurrentFilter"]"
+ class="btn btn-default @prevDisabled">
+    Previous
+</a> 
+<a asp-action="Index"
+ asp-route-sortOrder="@ViewData["CurrentSort"]"
+ asp-route-pageNumber="@(Model.PageIndex + 1)"
+ asp-route-currentFilter="@ViewData["CurrentFilter"]"
+ class="btn btn-default @nextDisabled">
+    Next
+ </a>

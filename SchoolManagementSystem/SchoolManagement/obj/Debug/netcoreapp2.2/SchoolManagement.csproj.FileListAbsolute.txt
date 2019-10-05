@@ -1,0 +1,98 @@
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.deps.json
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.runtimeconfig.json
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.runtimeconfig.dev.json
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.dll
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.pdb
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Views.dll
+E:\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Views.pdb
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.csproj.CoreCompileInputs.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorAssemblyInfo.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorAssemblyInfo.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.AssemblyInfoInputs.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.AssemblyInfo.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.TagHelpers.input.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.TagHelpers.output.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorCoreGenerate.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorTargetAssemblyInfo.cache
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorTargetAssemblyInfo.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Views.pdb
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.dll
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.pdb
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.csproj.CopyComplete
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Create.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Delete.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Details.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Edit.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Index.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Create.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Delete.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Details.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Edit.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Index.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Index.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Create.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Edit.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Delete.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Details.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_StudentPartial.g.cshtml.cs
+E:\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.csprojAssemblyReference.cache
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.deps.json
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.runtimeconfig.json
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.runtimeconfig.dev.json
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.dll
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.pdb
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Views.dll
+E:\Project 09\SchoolManagement\SchoolManagement\bin\Debug\netcoreapp2.2\SchoolManagement.Views.pdb
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.csproj.CoreCompileInputs.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorAssemblyInfo.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorAssemblyInfo.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.AssemblyInfoInputs.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.AssemblyInfo.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.TagHelpers.input.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.TagHelpers.output.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorCoreGenerate.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Create.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Delete.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Details.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Edit.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\ClassInformations\Index.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_StudentPartial.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Create.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Delete.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Details.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Edit.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\StudentInformations\Index.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Create.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Delete.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Details.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Edit.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\TeacherInformations\Index.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorTargetAssemblyInfo.cache
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.RazorTargetAssemblyInfo.cs
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.Views.pdb
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.dll
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.pdb
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.csproj.CopyComplete
+E:\Project 09\SchoolManagement\SchoolManagement\obj\Debug\netcoreapp2.2\SchoolManagement.csprojAssemblyReference.cache
